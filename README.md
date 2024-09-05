@@ -1,2 +1,2 @@
 # HackerRank-SQL-Challenges-Solutions
-# Author : Muhammad Ibrahim
+Solutions to combinations of SQL challenges.
